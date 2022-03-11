@@ -1,0 +1,17 @@
+{
+  "name": "discord.js-v14-template",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.0.0-dev.1646914074.dcd4797",
+    "dotenv": "^16.0.0",
+    "glob": "^7.2.0"
+  }
+}
