@@ -12,6 +12,13 @@ This code was from reconlx's [djs-base-handler](https://github.com/reconlx/djs-b
 **package-lock.json** - This is a file related to the npm package.<br/>
 **package.json** - This is a file related to the npm package.
 
+1 First, type `npm install` in your console.<br/>
+2 You need to make .env file. This process is very important and this file will serve to store the bot's tokens. Type this in your .env file `TOKEN = token` <br/>
+**YOU NEED TO CHANGE token TO YOUR BOT'S TOKEN.**</br>
+3 Type `node .` or `node index.js` in your console.
+
+You can check installed modules by `npm ls`.
+
 <br/>
 
 ## 한국어
@@ -23,3 +30,10 @@ This code was from reconlx's [djs-base-handler](https://github.com/reconlx/djs-b
 **index.js** - 봇을 실행시킬 때 쓰이는 메인 파일입니다. <br/>
 **package-lock.json** - npm 패키지 관련 파일입니다.<br/>
 **package.json** - npm 패키지 관련 파일입니다.
+
+1 먼저 콘솔에 `npm install`을 입력해 주세요.<br/>
+2 .env 파일을 만들어야 합니다. 이 과정은 매우 중요하며, 봇의 토큰을 저장하는 역할을 할것입니다. .env 파일에 이렇게 써주세요. `TOKEN = token` <br/>
+**token을 자신의 봇 토큰으로 바꾸는 것 잊지 마세요!**<br/>
+3 `node .` 아니면 `node index.js` 를 콘솔에 입력해 주세요. 
+
+설치된 모듈은 `npm ls` 명령어를 통해 확인하실 수 있습니다.
