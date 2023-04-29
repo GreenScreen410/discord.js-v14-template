@@ -1,5 +1,6 @@
 # discord.js-v14-template
-![node-current](https://img.shields.io/node/v/discord.js/dev?style=flat-square)
+![node-current](https://img.shields.io/node/v/discord.js?style=flat-square)
+![license](https://img.shields.io/github/license/GreenScreen410/discord.js-v14-template?style=flat-square)
 
 ## English
 
